@@ -24,7 +24,7 @@ https://youtu.be/9XPbZVFrC6U
 
 ## Verifikation
 
-In der Produktdemonstration sieht man, dass das Produkt funktioniert.
+In der Produktdemonstration sieht man, dass das Produkt funktioniert und meine Eingaben am Schluss ausgegeben werden.
 Der Code-Abschnitt zeigt wie ich die Session eröffnet habe mit @SessionScoped.
 
 
