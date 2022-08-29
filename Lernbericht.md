@@ -12,21 +12,20 @@ Ich habe gelernt eine Session zu erstellen und Daten durch die Session zu vermit
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
-
-
-Mit diesem Teil Code habe ich die Session
+Mit diesem Teil Code habe ich die Session eröffnet.
 ```Java
 @SessionScoped
 public class sessionHandler implements Serializable{
 ```
+Mit dem Aufruf commandButton habe ich die jeweiliige seite gewechselt und bin zum nächsten schritt gegangen.
+
 Hier sehen Sie eine Produktdemonstration die ich auf Youtube hochgeladen habe:
 https://youtu.be/9XPbZVFrC6U
 
 ## Verifikation
 
-In der Produktdemonstration sieht man, dass das Produkt funktioniert. 
+In der Produktdemonstration sieht man, dass das Produkt funktioniert.
+Der Code-Abschnitt zeigt wie ich die Session eröffnet habe mit @SessionScoped.
 
 
 # Reflektion zum Arbeitsprozess
