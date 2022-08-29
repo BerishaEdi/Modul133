@@ -1,12 +1,14 @@
 # Lern-Bericht
+
 Eduard Berisha
+
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Ich habe meinen Vor und Nachnamen über verschiedene Seiten eingegebn und abgespeichert und am schluss ausgegeben.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt eine Session zu erstellen und Daten durch die Session zu vermitteln
 
 ## Beschreibung
 
@@ -14,8 +16,13 @@ Eduard Berisha
 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+```Java
+@SessionScoped
+public class HelloController implements Serializable{
+```
+
+Hier sehen Sie eine Produktdemonstration die ich auf Youtube hochgeladen habe:
+https://youtu.be/9XPbZVFrC6U
 
 ## Verifikation
 
@@ -23,8 +30,8 @@ Eduard Berisha
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Die Arbeitshaltung und das Engagement waren da; 
 
-👎 und etwas, was nicht gut lief.
+👎 Am anfang brauchte ich relativ lange bis ich den ganzen Prozess verstanden habe.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Das nächste mal hole ich mir früher Hilfe von anderen als das ich lange am gleichen Problem scheitere.
