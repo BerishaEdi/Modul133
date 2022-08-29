@@ -30,7 +30,7 @@ Der Code-Abschnitt zeigt wie ich die Session eröffnet habe mit @SessionScoped.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Die Arbeitshaltung und das Engagement waren da; 
+👍 Die Arbeitshaltung und das Engagement waren da. 
 
 👎 Am anfang brauchte ich relativ lange bis ich den ganzen Prozess verstanden habe.
 
