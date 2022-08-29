@@ -14,19 +14,20 @@ Ich habe gelernt eine Session zu erstellen und Daten durch die Session zu vermit
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
+
+
+Mit diesem Teil Code habe ich die Session
 ```Java
 @SessionScoped
-public class HelloController implements Serializable{
+public class sessionHandler implements Serializable{
 ```
-
 Hier sehen Sie eine Produktdemonstration die ich auf Youtube hochgeladen habe:
 https://youtu.be/9XPbZVFrC6U
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+In der Produktdemonstration sieht man, dass das Produkt funktioniert. 
+
 
 # Reflektion zum Arbeitsprozess
 
